@@ -1,6 +1,6 @@
 ### <div align="center">I'm Qasim, a full-time AI/ML Engineer 👨‍💻</div> <br />
 
-An individual with 5 years of experience in building projects. Dedicated to software engineering, having four or more years of expertise, and specialising in full-stack web development, algorithms, and machine learning. Searching mostly for Machine Learning, Data Engineer, and Python Development positions. I would love to work in a challenging environment where I can reveal and prove my potential and abilities. Offering remarkable skills in web design and development. I’m a confident person who knows how to work in a drastic condition. <br> <br>
+An individual with 5 years of experience in building projects. Dedicated to software engineering, having four or more years of expertise, and specialising in full-stack web development, algorithms, and machine learning. Searching mostly for Machine Learning, Data Engineer, and Python Development positions. I would love to work in a challenging environment where I can reveal and prove my potential and abilities. I’m a confident person who knows how to work in a drastic condition. <br> <br>
 
 
 - 🌱 I really enjoy to automate things 😃
