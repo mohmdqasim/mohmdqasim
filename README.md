@@ -29,6 +29,9 @@ I'm a full-time Machine Learning Engineer with a passion for pushing the boundar
 - **Python and TensorFlow/PyTorch**: Skilled in Python programming language and frameworks like TensorFlow and PyTorch for implementing ML models.
 - **Deployment and Scalability**: Experience in deploying ML models in production environments and ensuring scalability and reliability.
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdqasim&hide_border=true&layout=compact" align="center" /></div>  
+
 ## 👯 Looking to Collaborate
 
 I'm open to collaborating on projects involving Generative AI, NLP, or applications of LLMs in real-world scenarios. Feel free to reach out if you have any exciting opportunities!
@@ -46,5 +49,4 @@ I'm open to collaborating on projects involving Generative AI, NLP, or applicati
 </a>  
 </div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdqasim&hide_border=true&layout=compact" align="center" /></div>  
+
