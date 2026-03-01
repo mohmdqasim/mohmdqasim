@@ -29,7 +29,7 @@ I'm a full-time Machine Learning Engineer with a passion for pushing the boundar
 - **Python and TensorFlow/PyTorch**: Skilled in Python programming language and frameworks like TensorFlow and PyTorch for implementing ML models.
 - **Deployment and Scalability**: Experience in deploying ML models in production environments and ensuring scalability and reliability.
 
-## Github Stats  
+## 📊 GitHub Activity
 
 <div align="center">
   
