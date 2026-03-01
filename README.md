@@ -30,7 +30,10 @@ I'm a full-time Machine Learning Engineer with a passion for pushing the boundar
 - **Deployment and Scalability**: Experience in deploying ML models in production environments and ensuring scalability and reliability.
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdqasim&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center">
+![snake gif](https://github.com/mohmdqasim/mohmdqasim/blob/output/github-contribution-grid-snake.svg)
+</div>  
 
 ## 👯 Looking to Collaborate
 
