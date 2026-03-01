@@ -14,16 +14,16 @@ An individual with 5 years of experience in building projects. Dedicated to soft
 
 <br/>  
 
-
-## About Me
-
-I'm a full-time Machine Learning Engineer with a passion for pushing the boundaries of AI and creating intelligent systems that can learn and adapt. With over 5 years of hands-on experience, I specialize in Generative AI and Large Language Models (LLMs), leveraging cutting-edge technologies to solve complex problems.
-
 ## 🚀 Skills and Expertise
 
 - **Machine Learning**: Extensive experience in developing and deploying machine learning models across various domains.
 - **Generative AI**: Expertise in designing and training generative models such as GANs, VAEs, and Transformers.
 - **Large Language Models (LLMs)**: Proficient in building and fine-tuning state-of-the-art LLMs like GPT, BERT, and T5.
+- **Agentic AI**: Architect autonomous and multi-agent workflows using:
+    - LangGraph for stateful agent orchestration
+    - CrewAI for collaborative agent systems
+    - Tool-using agents, planners, and memory architectures
+    - Function calling and structured reasoning pipelines
 - **Natural Language Processing (NLP)**: Strong background in NLP tasks including text generation, sentiment analysis, and named entity recognition.
 - **Deep Learning**: Advanced knowledge in deep neural networks, optimization techniques, and model architecture design.
 - **Python and TensorFlow/PyTorch**: Skilled in Python programming language and frameworks like TensorFlow and PyTorch for implementing ML models.
