@@ -32,8 +32,14 @@ I'm a full-time Machine Learning Engineer with a passion for pushing the boundar
 ## Github Stats  
 
 <div align="center">
-![snake gif](https://github.com/mohmdqasim/mohmdqasim/blob/output/github-contribution-grid-snake.svg)
-</div>  
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ## 👯 Looking to Collaborate
 
