@@ -21,18 +21,6 @@ An individual with 5 years of experience in building projects. Dedicated to soft
 - **Python and TensorFlow/PyTorch**: Skilled in Python programming language and frameworks like TensorFlow and PyTorch for implementing ML models.
 - **Deployment and Scalability**: Experience in deploying ML models in production environments and ensuring scalability and reliability.
 
-## 📊 GitHub Activity
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohmdqasim/mohmdqasim/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 ## 👯 Looking to Collaborate
 
 I'm open to collaborating on projects involving Generative AI, NLP, or applications of LLMs in real-world scenarios. Feel free to reach out if you have any exciting opportunities!
